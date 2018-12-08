@@ -1,0 +1,21 @@
+{
+  "name": "@mprobber/publish-pages",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "publish-pages": "./bin/publish-pages"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mprobber/publish-pages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mprobber/publish-pages/issues"
+  },
+  "homepage": "https://github.com/mprobber/publish-pages#readme",
+  "dependencies": {
+    "tmp": "^0.0.33"
+  }
+}
